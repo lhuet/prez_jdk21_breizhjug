@@ -1,7 +1,7 @@
 Demo Panama
 
 Step 0: Prepare your project in your favorite IDE
-- JDK 20 required
+- JDK 21 required
 - Use `--enable-preview` flag (With IntelliJ, set the language level to JDK20-preview)
 
 Step 1: Get jextract from https://jdk.java.net/jextract/
